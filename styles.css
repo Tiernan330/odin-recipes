@@ -1,0 +1,13 @@
+.Title{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    font-size: 72px;
+}
+
+.Button{
+    background-color: khaki;
+    color: black;
+    text-align: center;
+    font-size: 32px;
+}
